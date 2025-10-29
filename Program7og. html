@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>Floating Frame</title>
+</head>
+<body bgcolor="yellow">
+<center>
+<h1>Floating Frame !!!!!</h1>
+<iframe src="13.html" height="50%" width="50%"></iframe>
+</center>
+</body>
+</html>
+
+C2.2.html
+
+<html>
+<frameset rows="100%" cols="50%,50%">
+<frame src="13.html" />
+<frame src="c2.html" />
+</frameset>
+</html>
